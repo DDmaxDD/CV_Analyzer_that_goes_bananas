@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#FFB800"
+backgroundColor = "#FFF9E6"
+secondaryBackgroundColor = "#FFF9E6"
+textColor = "#4A3B24"
+font = "Comic Sans MS"
+
+[server]
+maxUploadSize = 10
+enableXsrfProtection = true
+enableCORS = false 
