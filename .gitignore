@@ -39,4 +39,9 @@ Thumbs.db
 # Project specific
 *.pdf
 *.docx
-*.log 
+*.log
+*.db
+token_usage.db
+
+# SQLite database file
+*.db 
